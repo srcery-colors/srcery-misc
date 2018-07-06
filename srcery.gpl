@@ -1,0 +1,36 @@
+GIMP Palette
+Name: srcery.gpl
+Columns: 1
+#
+28	27	25	[0] black
+45	44	41	[8] bright_black
+239	47	39	[1] red
+247	83	65	[9] bright_red
+81	159	80	[2] green
+152	188	55	[10] bright_green
+251	184	41	[3] yellow
+254	208	110	[11] bright_yellow
+44	120	191	[4] blue
+104	168	228	[12] bright_blue
+224	44	109	[5] magenta
+255	92	143	[13] bright_magenta
+10	174	179	[6] cyan
+83	253	233	[14] bright_cyan
+145	129	117	[7] white
+252	232	195	[15] bright_white
+255	255	255	------- xterm colors -------
+215	95	0	[166] orange
+255	135	0	[208] bright_orange
+18	18	18	[233] hard_black
+38	38	38	[235] xgray1 / gray15
+48	48	48	[236] xgray2 / gray19
+58	58	58	[237] xgray3
+68	68	68	[238] xgray4
+78	78	78	[239] xgray5
+88	88	88	[240] xgray6
+98	98	98	[241] xgray7
+108	108	108	[242] xgray8
+118	118	118	[243] xgray9
+128	128	128	[244] xgray10
+138	138	138	[245] xgray11
+148	148	148	[246] xgray12
