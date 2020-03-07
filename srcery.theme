@@ -1,0 +1,23 @@
+Description = "srcery"
+
+Categories = {"dark", "vim"}
+
+Default	= { Colour="#FCE8C3" }
+Canvas	= { Colour="#1C1B19" }
+Number	= { Colour="#FF5C8F"}
+Escape	= { Colour="#0AAEB3"}
+String	= { Colour="#98BC37" }
+BlockComment	= { Colour="#918175"}
+PreProcessor	= { Colour="#D0BFA1"}
+LineNum	= { Colour="#918175" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = Default
+Interpolation  = { Colour="#C07ABE" }
+
+Keywords = {
+  { Colour="#EF2F27" },
+  { Colour="#FBB829" },
+  { Colour="#EF2F27" },
+  { Colour="#FBB829" },
+}
