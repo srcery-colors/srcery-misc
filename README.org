@@ -1,0 +1,8 @@
+* Srcery miscellaneous
+
+Here goes anything that doesn't fit anywhere:
+
+** srcery.gpl
+   GIMP color palette, used and maintained with [[http://www.gpick.org/][gpick]].
+** srcery.theme
+   Theme file used with [[http://www.andre-simon.de/doku/highlight/highlight.php][highlight]].
