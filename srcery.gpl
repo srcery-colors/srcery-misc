@@ -3,7 +3,7 @@ Name: srcery.gpl
 Columns: 1
 #
 28	27	25	[0] black
-45	44	41	[8] bright_black
+145	129	117	[8] bright_black
 239	47	39	[1] red
 247	83	65	[9] bright_red
 81	159	80	[2] green
@@ -16,11 +16,11 @@ Columns: 1
 255	92	143	[13] bright_magenta
 10	174	179	[6] cyan
 83	253	233	[14] bright_cyan
-145	129	117	[7] white
+208	191	161	[7] white
 252	232	195	[15] bright_white
-255	255	255	------- xterm colors -------
-215	95	0	[166] orange
+255	95	0	[202] orange
 255	135	0	[208] bright_orange
+0	128	128	[30] teal
 18	18	18	[233] hard_black
 38	38	38	[235] xgray1 / gray15
 48	48	48	[236] xgray2 / gray19
